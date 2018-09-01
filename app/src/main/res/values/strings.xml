@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExploreRobots</string>
+    <string name="l_distance">旅した距離</string>
+    <string name="l_templature">温度</string>
+    <string name="l_spin">軌道誤差</string>
+    <string name="l_energy">エネルギー</string>
+    <string name="restart">RESTART</string>
+</resources>
